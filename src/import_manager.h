@@ -1,5 +1,6 @@
 #pragma once
 
+#include <mutex>
 #include <iosfwd>
 #include <shared_mutex>
 #include <string>
